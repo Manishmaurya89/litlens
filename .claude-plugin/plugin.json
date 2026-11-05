@@ -1,0 +1,11 @@
+{
+  "name": "litlens",
+  "displayName": "LitLens",
+  "version": "1.0.0",
+  "description": "Rigorous academic literature review: searches real papers, scores them, reads the top 3-5, and reports benchmarks, limitations and research gaps.",
+  "author": { "name": "Manish Maurya" },
+  "homepage": "https://github.com/Manishmaurya89/litlens",
+  "repository": "https://github.com/Manishmaurya89/litlens",
+  "license": "MIT",
+  "keywords": ["literature-review", "research", "papers", "arxiv"]
+}

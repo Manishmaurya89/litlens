@@ -1,0 +1,12 @@
+{
+  "name": "litlens-marketplace",
+  "description": "LitLens: rigorous academic literature review for Claude Code.",
+  "owner": { "name": "Manish Maurya" },
+  "plugins": [
+    {
+      "name": "litlens",
+      "source": "./",
+      "description": "Searches real papers, scores them, reads the top 3-5, and reports benchmarks, limitations and research gaps."
+    }
+  ]
+}

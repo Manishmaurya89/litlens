@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Local Claude Code files, including the symlink that keeps /litlens working in this folder
+.claude/
+
+# Local folders
+.dist/
+
+# Review output, in case a run folder ever ends up inside the repo
+litlens-*/
+candidates.json
+candidates.md
+fulltext.txt
+*.pdf
+
+# macOS
+.DS_Store
